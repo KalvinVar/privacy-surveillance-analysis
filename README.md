@@ -52,14 +52,3 @@ All content is supported by peer-reviewed academic sources including works by:
 - Virginia Eubanks (Automating Inequality)
 - And 14+ additional scholarly sources
 
-## 📝 License
-
-Created for educational purposes. All academic sources are properly cited.
-
-## 👤 Author
-
-Created by Kalvin Varghese as a sociology final project exploring the intersection of technology, privacy, and social justice.
-
----
-
-*"The sociological imagination connects 'personal troubles' (my privacy violated) to 'public issues' (surveillance as systemic problem)." - C. Wright Mills*
